@@ -21,5 +21,5 @@ I'm a passionate Software Quality Engineer from Brazil who loves learning new th
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSantos2109&layout=compact&theme=dracula" height="180em" alt="Top Langs">
-<img src="https://github-readme-stats.vercel.app/api?username=EricaSantos2109&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" height="180em" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=EricaSantos2109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" alt="Stats">
 </div>
