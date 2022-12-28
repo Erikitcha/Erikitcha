@@ -14,9 +14,9 @@ I'm a passionate Software Quality Engineer from Brazil who loves learning new th
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" /> </a> </p>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSantos2109&layout=compact" align= "left" alt="Top Langs">
-<img src="https://github-readme-stats.vercel.app/api?username=EricaSantos2109&count_private=true&show_icons=true&include_all_commits=true" align= "right" alt="Top Langs">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSantos2109&layout=compact&theme=dracula" height="180em" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=EricaSantos2109&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" height="180em" alt="Top Langs">
 </div>
