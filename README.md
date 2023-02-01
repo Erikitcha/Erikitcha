@@ -3,7 +3,7 @@ I'm a passionate Software Quality Engineer from Brazil who loves learning new th
 
 - 🔭 I’m currently working on [TerraMagna](https://terramagna.com.br/)
 - 🎓 I have a postgraduate degree in Software Quality Engineering and graduated Analysis and Systems Development from [FATEC-SJC](https://fatecsjc-prd.azurewebsites.net/)
-- 😀 My pronouns are she/her/Female
+- 😀 My pronouns are she/her
 - ❤️ My loves are games, cats, travel and gym 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/%c3%a9rica-santos-2ab73516b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/%c3%a9rica-santos-2ab73516b/"/></a>
