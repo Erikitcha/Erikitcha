@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">, I'm Érica</h1>
 I'm a passionate Software Quality Engineer from Brazil who loves learning new things <br>
 
-- 🔭 I’m currently working on [TerraMagna](https://terramagna.com.br/)
+- 🔭 I’m looking for new opportunities
 - 🎓 I have a postgraduate degree in Software Quality Engineering and graduated Analysis and Systems Development from [FATEC-SJC](https://fatecsjc-prd.azurewebsites.net/)
 - 😀 My pronouns are she/her
 - ❤️ My loves are games, cats, travel and gym 
