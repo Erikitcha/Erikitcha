@@ -20,6 +20,6 @@ I'm a passionate Software Quality Engineer from Brazil who loves learning new th
 <p align="left"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSantos2109&layout=compact&theme=dracula" height="180em" alt="Top Langs">
-<img src="https://github-readme-stats.vercel.app/api?username=EricaSantos2109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikitcha&layout=compact&theme=dracula" height="180em" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=Erikitcha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" alt="Stats">
 </div>
